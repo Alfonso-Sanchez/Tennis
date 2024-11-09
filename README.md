@@ -47,14 +47,6 @@ Para ejecutar este proyecto, se requiere tener un entorno de desarrollo compatib
    ```bash
    ./tenisX
    ```
-
-## Estructura del Proyecto
-
-- `src/`: Contiene el código fuente del proyecto.
-- `include/`: Archivos de cabecera.
-- `docs/`: Documentación del proyecto, si corresponde.
-- `README.md`: Este archivo, con las instrucciones básicas del proyecto.
-
 ## Autores
 
 Proyecto realizado por:
