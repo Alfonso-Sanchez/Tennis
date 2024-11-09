@@ -43,9 +43,9 @@ Para ejecutar este proyecto, se requiere tener un entorno de desarrollo compatib
      gcc -o tenis main.c -lpthread
      ```
 
-3. **Ejecutar la simulación**:
+3. **Ejecutar la simulación X**:
    ```bash
-   ./tenis
+   ./tenisX
    ```
 
 ## Estructura del Proyecto
